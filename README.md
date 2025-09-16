@@ -131,7 +131,26 @@ The Private IP address is now listed as static.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> next
+<img width="1838" height="555" alt="image" src="https://github.com/user-attachments/assets/5b273339-82c3-4e00-a0e1-6e3a5f3699ff" />
+
+</p>
+<p>
+Next I went to log into the dc-1 VM using remote desktop. I entered the public IP address into the Windows remote connection, then logged in with the username and password I created.
+</p>
+<br />
+
+<p>
+<img width="517" height="261" alt="image" src="https://github.com/user-attachments/assets/5398e708-7f7d-4ebf-8925-d9e1b503ac57" />
+
+</p>
+<p>
+Server Manager imediately opens upon logging in. I needed to disable the Windows firewall settings (not smart in real life, just for the sake of this project). I opened "Run" from the start menu and typed wf.msc. 
+</p>
+<br />
+
+<p>
+<img width="1303" height="925" alt="image" src="https://github.com/user-attachments/assets/94debaad-8b9b-4be8-83f3-5ec4f4e4cfb8" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -139,23 +158,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1301" height="912" alt="image" src="https://github.com/user-attachments/assets/cf70b3ff-f6d1-485a-9075-bd75ae282ead" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
