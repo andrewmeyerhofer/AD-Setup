@@ -4,7 +4,7 @@
 
 </p>
 
-<h1>Virtual Machine Creation (in Azure) and setup for Active Directory Project</h1>
+<h1>Virtual Machine Creation and setup for Active Directory Projects</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
