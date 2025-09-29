@@ -5,7 +5,7 @@
 </p>
 
 <h1>Virtual Machine Creation and Setup for Active Directory Projects</h1>
-In this project, I created two virtual machines using Microsoft Azure .<br />
+In this project, my main goal was to create two virtual machines using Microsoft Azure. These VMs will serve as my Domain Controller (dc-1) and Client computer (Client-1) respectively in all my Active Directory projects. I went through the steps of creating a resource group, virtual network, and two virtual machines in Azure, as well as disabling the Windows firewall on dc-1 and joining the domains of both VMs.<br />
 
 
 
